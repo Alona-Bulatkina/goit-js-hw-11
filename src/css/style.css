@@ -52,6 +52,7 @@
     flex-basis: calc((100% - 90px) / 3);
     margin-top: 90px;
   }
+  
   .info {
     display: flex;
     text-align: center;
@@ -74,6 +75,7 @@
     margin-top: 10px;
     margin-bottom: 10px;
     border: transparent;
+    border-radius: 4px;
 
     color: white;
     padding: 7px;
